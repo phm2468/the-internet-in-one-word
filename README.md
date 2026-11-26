@@ -8,9 +8,9 @@ The whole internet, in one word.
 
 ## The word
 
-> **Buffering**
+> **Doomscrolling**
 
-Always loading. Always almost there. The promise is right in front of you and the content is one spinner away — the technical term for the entire experience of being online.
+The endless scroll through bad news, rage bait and strangers' worst days — long after it stops being informative, long after it stops being fun, the thumb keeps going. The defining habit of being online.
 
 ## Run it
 
